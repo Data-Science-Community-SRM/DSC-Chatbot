@@ -1,0 +1,42 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day"],
+     "responses": ["Hello", "Greetings from Data Science Community SRM", "Hi there, this is Data Science Community SRM Chatbot"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later-Data Science Community SRM, thanks for visitingData Science Community SRM", "Have a nice day - Team Data Science Community SRM", "Bye! Come back again soon- Team Data Science Community SRM."]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful"],
+     "responses": ["Happy to help!-team Data Science Community SRM", "Any time!-team Data Science Community SRM", "Our pleasure-team Data Science Community SRM"]
+    },
+    {"tag": "about",
+     "patterns": ["What is Data Science Community SRM?", "About Data Science Community SRM?", "Data Science Community SRM?" ],
+     "responses": ["We are a technology-driven Data Science-based student-led innovation community at SRM IST.\nOur aim is to foster development and entrepreneurial skills among students and work as a community that inspires thousands,e are a technology-driven Data Science-based student-led innovation community at SRM IST.\nOur aim is to foster development and entrepreneurial skills among students and work as a community that inspires thousands"]
+    },
+    {"tag": "domains",
+     "patterns": ["what are the domains in DSC?", "?", "What do you rent?" ],
+     "responses": ["We rent Yamaha, Piaggio and Vespa mopeds", "We have Piaggio, Vespa and Yamaha mopeds"]
+    },
+    {"tag": "payments",
+     "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
+     "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+    },
+    {"tag": "opentoday",
+     "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?"],
+     "responses": ["We're open every day from 9am-9pm", "Our hours are 9am-9pm every day"]
+    },
+    {"tag": "rental",
+     "patterns": ["Can we rent a moped?", "I'd like to rent a moped", "How does this work?" ],
+     "responses": ["Are you looking to rent today or later this week?"],
+     "context_set": "rentalday"
+    },
+    {"tag": "today",
+     "patterns": ["today"],
+     "responses": ["For rentals today please call 1-800-MYMOPED", "Same-day rentals please call 1-800-MYMOPED"],
+     "context_filter": "rentalday"
+    }
+]
+}
