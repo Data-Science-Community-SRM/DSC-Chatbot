@@ -1,0 +1,40 @@
+{
+    "intents": [
+        {
+            "tag": "clubmembers",
+            "patterns": [
+                "who are the club member",
+                "tell some club membern names",
+                "name the members of the club",
+                "tell me about DSC members or boaed"
+            ],
+            "resposes": [
+                "Anubhav Pathak(President)",
+                "Nandhini Agrawal(Vice President)",
+                "Pushkar Rajkumar Tuse(Vice President)",
+                "Jonnalagadda Sai Sathya Narayana(Technical Director)",
+                "Aryan Raj(Technical Director)",
+                "Pouravi Pawar(Corporate Director)",
+                "Aditya Achuthan(Corporate Director)",
+                "Zainab Zaiba(Creative Director)",
+                "Parth Bhargava(Creative Director)",
+                "Zayed Syed Haque(Project Director)",
+                "Siddharth Singh(Associate Cororate Director)",
+                "Viknesh S(Research Director)",
+                "Sahiti Naidu(AI/ML Supervisor)",
+                "Animesh Raj(AI/ML Supervisor)",
+                "Vaishnav MK(Research Supervisor)",
+                "Trisha Sharan Thakur(Web Dev Supervisor)",
+                "Ranga Ananta(Sponsorship Supervisor)",
+                "Rajeev Daga(Sponsorship Supervisor)",
+                "Riya Agarwal(Content Supervisor)",
+                "Misha Goyal(Content Supervisor)",
+                "Dev Pratap Singh(Events And PR Supervisor)",
+                "Soham Singh Thakur(Events And PR Supervisor)",
+                "Ridhi Lala(Events And PR Supervisor)",
+                "N Devi Sri Priya(UI/UX Supervisor)",
+                "R Dheraj Krishna(GFX Supervisor)"
+            ]
+        }
+    ]
+}

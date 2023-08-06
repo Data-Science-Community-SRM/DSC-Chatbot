@@ -1,0 +1,112 @@
+{"intents": [
+   
+    {"tag": "projects",
+     "patterns": ["Tell me about the projects done by the club","What are the latest projects completed by the club?","Can you list some of the projects our club has worked on?"],
+     "responses": ["Cryptocurrency-Price-Prediction", "Hand-Written-Digit-Classification-Recognition", "Music-Genre-Classification-System", "Plant-Disease-Prediction", "Face-Mask-Detection","Optical-Character-Recognition", "TRAFFIC-RULE-VIOLATION-DETECTION-SYSTEM","Fashion-Generation","Child-Safety-System","Food-Recommendation-System","Hand-Gesture-Recognition-Rock-Paper-Scissor","Lane-Detection-for-Traffic-Optimization","Conjexure","Super-Color","StackFlowSys","MoodyCat","Aashma-Foundation","Forecasting-US-Elections","DocGen","AI-Based-Chrome-Extension","Rhythm-Generator","Piano-Sheet-Converter","3D-Object-Detection","Ailment"]
+    },
+    {"tag": "AI-Based-Chrome-Extension",
+     "patterns": ["Tell me about AI based chrome extnesion.","What is AI based chrome extension?","what does AI based chrome extension do?"],
+     "responses": ["It aims to detect whether a URL is safe or not using a decision tree algorithm. The project uses a web app to interact with users, and a Python backend to process the user input and make predictions about the safety of a given URL. The decision tree algorithm is a machine learning technique that uses a series of binary decisions to classify input data into categories."]
+    },
+    {"tag": "Rhythm-Generator",
+    "patterns": ["Tell me about Rhythm Generator.","What is Rhythm Generator?","what does Rhythm Generator do?"],
+    "responses": ["It effortlessly generate original melodies and harmonies, tailored to your preferences. Say goodbye to creative blocks, and say hello to a new era of music creation with SoundSpirit."]
+    },
+    {"tag": "Piano-Sheet-Converter",
+    "patterns": ["Tell me about Piano Sheet Converter.","What is Piano Sheet Converter?","what does Piano Sheet Converter do?"],
+    "responses": ["It effortlessly generate original melodies and harmonies, tailored to your preferences. Say goodbye to creative blocks, and say hello to a new era of music creation with SoundSpirit."]
+    },
+    {"tag": "3D-Object-Detection",
+    "patterns": ["Tell me about 3D Object Detection.","What is 3D Object Detection?","what does 3D Object Detection do?"],
+    "responses": ["In this project we aim to create the website where the user feed the live video and it will be processed by models where it will identify the 3D Object and create the 3D bounding box around the object."]
+    },
+    {"tag": "Ailment",
+    "patterns": ["Tell me about Ailment.","What is Ailment?","what does Ailment do?"],
+    "responses": ["This project comprises predicting different types of disease at one place Pneumonia, Malaria, Liver Disease and Cardiovascular Disease."]
+    },
+    {"tag": "Cryptocurrency-Price-Prediction",
+    "patterns": ["Tell me about Cryptocurrency-Price-Prediction.","What is Cryptocurrency-Price-Prediction?","what does Cryptocurrency-Price-Prediction do?"],
+    "responses": ["In this Deep Learning Application, we have used the price data for Bitcoin to forecast its price in a specified future window. We have used the Tensorflow and Keras APIs to build a stacked LSTM model."]
+    },
+    {"tag": "Hand-Written-Digit-Classification-Recognition",
+    "patterns": ["Tell me about Hand-Written-Digit-Classification-Recognition.","What is Hand-Written-Digit-Classification-Recognition?","what does Hand-Written-Digit-Classification-Recognition do?"],
+    "responses": ["his project performs digit recognition using deep learning concepts. It can classify an image into 10 classes. We have built a Multilayer perceptron(MLP) using most popular Google library Tensorflow to recognize handwritten digits."]
+    },
+    {"tag": "Music-Genre-Classification-System",
+    "patterns": ["Tell me about Music-Genre-Classification-System.","What is Music-Genre-Classification-SystemAilment?","what does Music-Genre-Classification-System do?"],
+    "responses": ["In this work, the objective is to classify the audio data into specific genres from GTZAN dataset which contain about 10 genres. We have built a Convolutional Neural Network model using the tensorflow library to classify the 10 genres."]
+    },
+    {"tag": "Plant-Disease-Prediction",
+    "patterns": ["Tell me about Plant-Disease-Prediction.","What is Plant-Disease-Prediction?","what does Plant-Disease-Prediction do?"],
+    "responses": ["It is a Plant Disease Classifier. We took several detasets and resized the images to one specific dimension. Moving forward we created a model."]
+    },
+    {"tag": "Face-Mask-Detection",
+    "patterns": ["Tell me about Face-Mask-Detection.","What is Face-Mask-Detection?","what does Face-Mask-Detection do?"],
+    "responses": ["This project aims to identify and perform binary classification to sort if a person is wearing a face mask or not. We have built a model that uses MobileNetV2 to do the same, which is a popular library when it comes to identifying similar features."]
+    },
+    {"tag": "Optical-Character-Recognition",
+    "patterns": ["Tell me about Optical-Character-Recognition.","What is Optical-Character-Recognition?","what does Optical-Character-Recognition do?"],
+    "responses": ["Optical character recognition (OCR) is the conversion of images to text. In order to extract and repurpose data from scanned documents, camera images or PDFs, you need an OCR software that would single out letters on the image thus enabling you to access and edit the original document."]
+    },
+    {"tag": "TRAFFIC-RULE-VIOLATION-DETECTION-SYSTEM",
+    "patterns": ["Tell me about TRAFFIC-RULE-VIOLATION-DETECTION-SYSTEM.","What is TRAFFIC-RULE-VIOLATION-DETECTION-SYSTEM?","what does TRAFFIC-RULE-VIOLATION-DETECTION-SYSTEM do?"],
+    "responses": ["This project designed to detect and monitor traffic rule violations. It was bootstrapped with Create React App."]
+    },
+    {"tag": "Fake-News-Detector-Application",
+    "patterns": ["Tell me about Fake-News-Detector-Application.","What is Fake-News-Detector-Application?","what does Fake-News-Detector-Application do?"],
+    "responses": ["This application helps people to check if a news is fake or real, and thereby stay away from the fake news that spreads on social media."]
+    },
+    {"tag": "Fashion-Generation",
+    "patterns": ["Tell me about Fashion-Generation.","What is Fashion-Generation?","what does Fashion-Generation do?"],
+    "responses": ["We worked on the task of generating novel fashion images from an existing dataset called DeepFashion using the popular generative adversarial network (or GAN) architecture. We experimented with several different architectures, losses, learning rates, training techniques (which are a particular stress point when it comes to building GANs."]
+    },
+    {"tag": "Child-Safety-System",
+    "patterns": ["Tell me about Child-Safety-System.","What is Child-Safety-System?","what does Child-Safety-System do?"],
+    "responses": ["A bot which warns users against potential predators while engaging in conversations via (online) chatrooms."]
+    },
+    {"tag": "Food-Recommendation-System",
+    "patterns": ["Tell me about Food-Recommendation-System.","What is Food-Recommendation-System?","what does Food-Recommendation-System?"],
+    "responses": ["This is a machine learning web app, which when executed, the client gets to choose a food item based on his own liking, and we recommend 10 more such similar foods through our recommendation system."]
+    },
+    {"tag": "Hand-Gesture-Recognition-Rock-Paper-Scissor",
+    "patterns": ["Tell me about CHand-Gesture-Recognition-Rock-Paper-Scissor.","What is Hand-Gesture-Recognition-Rock-Paper-Scissor?","what does Hand-Gesture-Recognition-Rock-Paper-Scissor do?"],
+    "responses": ["Hand Gesture Recognition and Modification was based on transfer learning Inception v3 model using Keras with Tensorflow backend trained on 4 classes - rock, paper, scissors, and nothing hand signs. The final trained model resulted in an accuracy of 97.05%. The model was deployed using Streamlit on Heroku Paas."]
+    },
+    {"tag": "Lane-Detection-for-Traffic-Optimization",
+    "patterns": ["Tell me about Lane-Detection-for-Traffic-Optimization.","What is Lane-Detection-for-Traffic-Optimization?","what doesLane-Detection-for-Traffic-Optimization?"],
+    "responses": ["In this project, we'll be detecting lane lines in videos and images of roads using the Computer Vision. Following lane lines is one of the most important traffic rules, so detecting them is a significant task while building models for autonomous(self-driving) vehicles"]
+    },
+    {"tag": "Conjexure",
+    "patterns": ["Tell me about Conjexure.","What is Conjexure?","what does Conjexure do?"],
+    "responses": ["A bot which warns users against potential predators while engaging in conversations via (online) chatrooms."]
+    },
+    {"tag": "Super-Color",
+    "patterns": ["Tell me about Super-Color.","What is Super-Color?","what does Super-Color do?"],
+    "responses": ["An ML-based web-application to colorize your black-and-white images."]
+    },
+    {"tag": "StackFlowSys",
+    "patterns": ["Tell me about StackFlowSys.","What is StackFlowSys?","what does StackFlowSys do?"],
+    "responses": ["Analyzing Stack Exchange's data and generating insights. Process posts data and develop a program to solve the below-mentioned KPI's."]
+    },
+    {"tag": "MoodyCat",
+    "patterns": ["Tell me about MoodyCat.","What is MoodyCat?","what does MoodyCat do?"],
+    "responses": ["Real-time facial emotions recognizer deployed as a Streamlit application."]
+    },
+    {"tag": "Aashma-Foundation",
+    "patterns": ["Tell me about Aashma-Foundation.","What is Aashma-Foundation?","what does MoodyCat do?"],
+    "responses": ["A Social Project from our Community to build a website for the NGO Aashma Foundation."]
+    },
+    {"tag": "Forecasting-US-Electionst",
+    "patterns": ["Tell me about Forecasting-US-Elections.","What is Forecasting-US-Elections?","what does Forecasting-US-Elections do?"],
+    "responses": ["Extraction of tweets and Perform sentiment analysis on the presidential candidature of Donald Trump, Joe Biden and Kanye West in the upcoming elections in US in November, 2020."]
+    },
+    {"tag": "DocGen",
+    "patterns": ["Tell me about DocGen.","What is DocGen?","what does DocGen do?"],
+    "responses": ["An easy to use one stop solution for generating handwritten documents without actually having to write one. Doc Writer is a savior for all those, who need to complete Handwritten work, without actually having to write one. Be it your assignments, home work or any other tasks, use it for all."]
+    },
+    {"tag": "Handwriting-Generation",
+    "patterns": ["Tell me about Handwriting-Generation.","What is Handwriting-Generation?","what does Handwriting-Generation do?"],
+    "responses": ["Using Long Short-term Memory recurrent neural networks to generate highly realistic cursive handwriting in a wide variety of styles."]
+    }
+]
+}

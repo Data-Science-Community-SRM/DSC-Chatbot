@@ -1,0 +1,23 @@
+{"intents":[
+    {"tag": "domains",
+     "patterns": ["what are the domains","name some domains","domains","tell some domains name"],
+     "resposes": ["Data Analytics","AI/ML","Web Development","Blockchain",""]
+    },
+    {"tag":"Data Analytics",
+     "patterns": ["what is data analytics","what's in data analytics","tell more about data analytics"],
+     "resposes": ["Analyzing raw data using various manipulation and visualization techniques to uncover insights and help organizations make better decisions."]
+    },
+    {"tag":"AI/ML",
+     "patterns": ["what is AI/ML","what's in AI/ML","tell more about AI/ML"],
+     "resposes": ["Creating and deploying models that exhibit intelligence to solve complex real-world problems in the realm of computational, cognitive and information science."]
+    },
+    {"tag":"Web Development",
+     "patterns": ["what is Web Development","what's in Web Development","tell more about Web Development"],
+     "resposes": ["Developing and maintaining websites with intuitive user interface and seamless user experience along with precise server-side web application logic."]
+    },
+    {"tag":"Blockchain",
+     "patterns": ["what is Blockchain","what's in Blockchain","tell more about Blockchain"],
+     "resposes": [ "Optimizing blockchain protocols, crafting and developing the architecture of systems, smart contracts and web apps using blockchain technology."]
+    }
+]
+}
