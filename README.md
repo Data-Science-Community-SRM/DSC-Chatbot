@@ -12,3 +12,4 @@ Events: You can ask the chatbot about the upcoming events that the DSC Club is o
 
 If you have any questions about the DSC Club, please feel free to ask the chatbot. It will do its best to answer your questions.
 
+![image](https://github.com/Data-Science-Community-SRM/DSC-Chatbot/assets/75358720/c485284f-bc99-42c8-b282-20152f3529c1)
